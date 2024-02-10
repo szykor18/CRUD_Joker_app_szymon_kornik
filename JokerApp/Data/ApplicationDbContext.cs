@@ -14,5 +14,6 @@ namespace JokerApp.Data
         {
         }
         public DbSet<JokerApp.Models.Joke> Joke { get; set; }
+        public DbSet<Category> Categories { get; set; }
     }
 }

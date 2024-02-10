@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUD_Joker_app_szymon_kornik", "JokerApp\CRUD_Joker_app_szymon_kornik.csproj", "{5ACA025E-C9A5-400C-BB27-22F38BA5A737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ACA025E-C9A5-400C-BB27-22F38BA5A737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACA025E-C9A5-400C-BB27-22F38BA5A737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACA025E-C9A5-400C-BB27-22F38BA5A737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACA025E-C9A5-400C-BB27-22F38BA5A737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF983263-AEA7-4A2A-9220-5B1C44151C3A}
+	EndGlobalSection
+EndGlobal
